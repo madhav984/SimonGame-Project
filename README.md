@@ -9,6 +9,6 @@ The Simon Game is a game of lights and sounds in which players must repeat rando
 In order to start the game, visit the below link
 
 ```bash
-  https://madhav984.github.io/DiceGame-Project/
+  https://madhav984.github.io/SimonGame-Project/
 ```
 
